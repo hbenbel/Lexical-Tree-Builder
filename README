@@ -6,7 +6,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 
 DESCRIPTION
-    A program that can generate a n-ary tree in dot format
+    A program that can generate a prefix tree in dot format
     from a given dictionary.
     An image can be created from the generated tree.dot file
     with Graphivz by using this command: dot -Tpng tree.dot -O
